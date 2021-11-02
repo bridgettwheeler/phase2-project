@@ -1,67 +1,58 @@
-
 {
   "coffees": [
     {
       "id": 1,
       "file": "https://coffee.alexflipnote.dev/FmWpvSupGWE_coffee.png",
       "liked": false
-      
     },
-
     {
-      "id": 2,
       "file": "https://coffee.alexflipnote.dev/0XDyWEc94Lk_coffee.png",
-      "liked": false
+      "liked": "false",
+      "id": 2
     },
-
     {
-      "id": 3,
       "file": "https://coffee.alexflipnote.dev/ePPsxQvVZ1I_coffee.jpg",
-      "liked": false
+      "liked": "false",
+      "id": 3
     },
-
     {
       "id": 4,
       "file": "https://coffee.alexflipnote.dev/HOSOOnmb6Xs_coffee.jpg",
       "liked": false
     },
-
     {
       "id": 5,
       "file": "https://coffee.alexflipnote.dev/W6WNm0Ruvhw_coffee.png",
-      "Liked": false  
+      "Liked": false
     },
-
     {
       "id": 6,
       "file": "https://coffee.alexflipnote.dev/37KWC5DkBHw_coffee.jpg",
-      "Liked": false  
+      "Liked": false
     },
-
     {
       "id": 7,
       "file": "https://coffee.alexflipnote.dev/I1WHrWdrGdY_coffee.jpg",
-      "Liked": false  
+      "Liked": false
     },
-
     {
       "id": 8,
       "file": "https://coffee.alexflipnote.dev/vCadxVuu5vY_coffee.jpg",
-      "Liked": false  
+      "Liked": false
     },
-
     {
       "id": 9,
       "file": "https://coffee.alexflipnote.dev/AQeySo8YBNw_coffee.png",
-      "Liked": false  
+      "Liked": false
     },
-
     {
       "id": 10,
       "file": "https://coffee.alexflipnote.dev/J_q19leiBp8_coffee.jpg",
-      "Liked": false  
+      "Liked": false
+    },
+    {
+      "liked": "true",
+      "id": 11
     }
-
-
   ]
 }

@@ -1,8 +1,12 @@
 import React from 'react';
+import ImageContainer from './ImageContainer';
 
-function Favorites() {
+function Favorites({images}) {
+    
     return (
-        <p>My favorite coffees</p>
+        <div>
+            
+        </div>
 
     )
 }
